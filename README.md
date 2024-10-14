@@ -16,7 +16,7 @@ Things to Learn
 
 
 Tech used
-Peer js
-webrtc
-nextjs
-socket.io
+- Peer js
+- webrtc
+- nextjs
+- socket.io
