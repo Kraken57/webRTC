@@ -27,10 +27,7 @@ const usePeer = () => {
     //     })();
     //   }, [roomId, socket]);
 
-    return {
-      peer,
-      myId,
-    };
+    // Asynchronously load PeerJS and initialize it
     (async function initPeer() {
       const myPeer = new (await import("peerjs")).default();
       setPeer(myPeer);
@@ -41,6 +38,11 @@ const usePeer = () => {
       });
     })();
   }, []);
+
+  return {
+    peer,
+    myId,
+  };
 };
 
 export default usePeer;
