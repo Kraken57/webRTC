@@ -38,3 +38,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# webRTC
+Learning WEBRTC
+
+Things to Learn
+- [X] TCP vs UDP
+- [X] Private IP and Public IP
+- [X] Turn Server or ICE Server
+- [X] WebSockets
+- [X] How Signaling Works
+- [X] Public Information(PI) --> Session Description (SDP)
+- [X] P2P
+- [X] Mess
+- [X] SFU (Selective Forwading Unit)  ---> Composed Stream
