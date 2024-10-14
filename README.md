@@ -16,6 +16,9 @@ Things to Learn
 
 
 Tech used
+- javascript
+- tailwindcss
+- react js
 - Peer js
 - webrtc
 - nextjs
