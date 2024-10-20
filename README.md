@@ -2,7 +2,7 @@
 # webRTC
 Learning WEBRTC
 
-Things to Learn
+#### Things to Learn
 - [X] TCP vs UDP
 - [X] Private IP and Public IP
 - [X] Turn Server or ICE Server
@@ -15,7 +15,7 @@ Things to Learn
 
 
 
-Tech used
+#### Tech used
 - javascript
 - tailwindcss
 - react js
